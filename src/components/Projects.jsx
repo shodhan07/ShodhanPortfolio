@@ -3,7 +3,7 @@ import React from "react";
 const projects = [
     {
     title: "Cab Booking Management System Cpp",
-    image: "Assets/images/aiva.png",
+    image: "Assets/images/cabsystemPic.png",
     alt: "Cab Booking Management System - A C++ cab booking system for user/driver management, ride requests, driver assignment, and ride status tracking by Shodhan",
     desc: "A C++ cab booking management system for creating users/drivers, requesting rides, assigning drivers, and tracking ride status through completion.",
     tags: ["C++", "OOPS", "File Handling", "User Authentication"],
@@ -25,7 +25,7 @@ const projects = [
     title: "XWeather",
     image: "Assets/images/XweatherPic.png",
     alt: "XWeather - An automated app that fetches real-time weather data and posts daily updates on X by Shodhan",
-    desc: "XWeather is an automated weather update app that fetches real-time weather data for a given location using a weather API and posts daily updates on X via the X API.",
+    desc: "XWeather fetches real-time weather for a location and posts daily updates on X automatically.",
     tags: ["JavaScript", "Twitter API", "Weather API"],
     href: "https://github.com/shodhan07/XWeatherJs",
     hover: "group-hover:text-neo-blue",
@@ -34,10 +34,10 @@ const projects = [
   {
     title: "Portfolio",
     image: "Assets/images/portfolioPic.png",
-    alt: "Professional Portfolio V1 - Full Stack Developer Portfolio with 3D Animations by Arham",
-    desc: "Portfolio made Using React, node and three.js. Fully Responsive and 3d animated components.",
-    tags: ["REACT", "Node.js", "Three.js", "3D", "Animated"],
-    href: "arham43-ops.netlify.app",
+    alt: "Portfolio - React + Vite + Tailwind portfolio with neo-brutalist design, animations, live coding stats, and full responsiveness by Shodhan.",
+    desc: "React + Vite + Tailwind portfolio with neo-brutalist design, animations, live coding stats, and full responsiveness.",
+    tags: ["React", "TailwindCSS", "3D", "Animated"],
+    href: "https://github.com/shodhan07/ShodhanPortfolio",
     hover: "group-hover:text-neo-orange",
     mt: "md:mt-20",
   }

@@ -40,7 +40,7 @@ export default function Navbar() {
             href="#contact"
             className="px-3 py-1 font-mono font-bold text-sm bg-neo-yellow border border-black hover:bg-neo-pink transition-colors cursor-hover"
           >
-            HIRE ME
+            CONTACT ME
           </a>
         </div>
       </div>
