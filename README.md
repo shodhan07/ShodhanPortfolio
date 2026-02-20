@@ -34,6 +34,17 @@ This project is a single-page developer portfolio with section-based navigation:
 npm install
 ```
 
+### Environment Variables
+
+Create a `.env` file in the project root (or copy from `.env.example`) and set:
+
+```bash
+VITE_EMAILJS_SERVICE_ID=your_service_id
+VITE_EMAILJS_TEMPLATE_ID=your_template_id
+VITE_EMAILJS_PUBLIC_KEY=your_public_key
+VITE_CONTACT_TO_EMAIL=your_email_address
+```
+
 ### Run Dev Server
 
 ```bash
@@ -86,6 +97,7 @@ shoportfolio/
 |- tailwind.config.js
 |- postcss.config.js
 |- package.json
+|- README.md
 ```
 
 ## Configuration Notes

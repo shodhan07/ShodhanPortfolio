@@ -2,21 +2,21 @@ import React from "react";
 
 const skills = [
   ["LANGUAGE", "C++", "hover:bg-white"],
-  ["LIBRARY", "REACT", "hover:bg-neo-purple"],
-  ["FRAMEWORK", "NEXT.JS", "hover:bg-neo-yellow"],
+  ["LANGUAGE", "C", "hover:bg-white"],
   ["LANGUAGE", "JavaScript", "hover:bg-neo-blue"],
+  ["LANGUAGE", "SQL", "hover:bg-neo-yellow"],
+  ["LIBRARY", "REACT", "hover:bg-neo-purple"],
   ["BACKEND", "NODE.JS", "hover:bg-neo-green"],
   ["STYLING", "TAILWIND", "hover:bg-neo-pink"],
   ["DATA", "MySQL", "hover:bg-neo-purple"],
+  ["DATA", "MS SQL SERVER", "hover:bg-neo-pink"],
   ["CORE", "HTML5", "hover:bg-neo-orange"],
   ["VERSION", "GIT", "hover:bg-white"],
   ["QUERY", "REST API", "hover:bg-white"],
   ["OPS", "GitHub", "hover:bg-neo-blue"],
   ["AUTOMATION", "ServiceNow", "hover:bg-neo-orange"],
   ["AUTOMATION", "Nintex K2", "hover:bg-neo-yellow"],
-  ["AUTOMATION", "COPILOT STUDIO", "hover:bg-neo-pink"],
-  ["DATA", "MS SQL SERVER", "hover:bg-neo-pink"],
-  ["LANGUAGE", "C", "hover:bg-white"]
+  ["AUTOMATION", "COPILOT STUDIO", "hover:bg-neo-pink"]  
 ];
 
 export default function Skills() {

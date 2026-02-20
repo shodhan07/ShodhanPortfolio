@@ -7,7 +7,7 @@ export default function About() {
         <div className="md:col-span-4 reveal">
           <div className="aspect-square bg-gray-200 border-4 border-black relative shadow-hard overflow-hidden group">
             <img
-              src="Assets/images/img.jpg"
+              src="Assets/images/Ppic.jpeg"
               alt="Arham"
               className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500"
             />
