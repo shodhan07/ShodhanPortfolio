@@ -3,7 +3,7 @@ import React from "react";
 const projects = [
     {
     title: "Cab Booking Management System Cpp",
-    image: "Assets/images/cabsystemPic.png",
+    image: "/Assets/images/cabsystemPic.png",
     alt: "Cab Booking Management System - A C++ cab booking system for user/driver management, ride requests, driver assignment, and ride status tracking by Shodhan",
     desc: "A C++ cab booking management system for creating users/drivers, requesting rides, assigning drivers, and tracking ride status through completion.",
     tags: ["C++", "OOPS", "File Handling", "User Authentication"],
@@ -13,7 +13,7 @@ const projects = [
   },
   {
     title: "Room Expense Tracker",
-    image: "Assets/images/roomexpensePic.png",
+    image: "/Assets/images/roomexpensePic.png",
     alt: "Room Expense Tracker - A full-stack application that logs expenses, splits costs, and provides clear summaries for transparent money management by Shodhan",
     desc: "Helps users log daily expenses, split costs, and view clear summaries for easy and transparent money management.",
     tags: ["React", "Axios", "React Router", "MySQL"],
@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "XWeather",
-    image: "Assets/images/XweatherPic.png",
+    image: "/Assets/images/XweatherPic.png",
     alt: "XWeather - An automated app that fetches real-time weather data and posts daily updates on X by Shodhan",
     desc: "XWeather fetches real-time weather for a location and posts daily updates on X automatically.",
     tags: ["JavaScript", "Twitter API", "Weather API"],
@@ -33,7 +33,7 @@ const projects = [
   },
   {
     title: "Portfolio",
-    image: "Assets/images/portfolioPic.png",
+    image: "/Assets/images/portfolioPic.png",
     alt: "Portfolio - React + Vite + Tailwind portfolio with neo-brutalist design, animations, live coding stats, and full responsiveness by Shodhan.",
     desc: "React + Vite + Tailwind portfolio with neo-brutalist design, animations, live coding stats, and full responsiveness.",
     tags: ["React", "TailwindCSS", "3D", "Animated"],

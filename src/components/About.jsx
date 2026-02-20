@@ -7,8 +7,8 @@ export default function About() {
         <div className="md:col-span-4 reveal">
           <div className="aspect-square bg-gray-200 border-4 border-black relative shadow-hard overflow-hidden group">
             <img
-              src="Assets/images/Ppic.jpeg"
-              alt="Arham"
+              src="/Assets/images/Ppic.jpeg"
+              alt="Shodhan"
               className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500"
             />
             <span className="absolute top-2 left-2 bg-neo-red text-white px-2 font-mono text-xs border border-black z-10">
