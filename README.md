@@ -112,16 +112,6 @@ shoportfolio/
 - Contribution graph is loaded via `https://ghchart.rshah.org`.
 - LeetCode card is loaded via `https://leetcard.jacoblin.cool`.
 
-## Known Asset Gaps
-
-The following assets are referenced in components but are not currently present in this repository:
-
-- `Assets/images/img.jpg`
-- `Assets/images/aiva.png`
-- `Assets/Resume/Arham Resume.pdf`
-
-Add these files (or update paths in components) to avoid broken images/links.
-
 ## Deployment
 
 This is a static frontend and can be deployed on platforms like Netlify, Vercel, or GitHub Pages after `npm run build`.
